@@ -1,9 +1,9 @@
 # CODTECH-Task1
 
-#Name: Neeraj Kasera
-#Company: CODTECH IT SOLUTIONS
-#ID: CT08DS1553
-#Domain: Web Development
+@Name: Neeraj Kasera
+@Company: CODTECH IT SOLUTIONS
+@ID: CT08DS1553
+@Domain: Web Development
 
 # Overview of the Project
 This project is a simple responsive e-commerce website built using HTML, CSS, and JavaScript. It demonstrates the basic structure and functionality of an online store, including product listings, a shopping cart, and dynamic updates to the cart's contents and total price.
