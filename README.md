@@ -23,15 +23,15 @@ Items can be added to the cart, and the cart updates in real-time without needin
 
 # User Authentication:-
 
-Implement user registration and login functionality.
-Allow users to save their cart and order history.
-Product Filtering and Search
+#Implement user registration and login functionality.
+#Allow users to save their cart and order history.
+#Product Filtering and Search
 
-Add search functionality to find products quickly.
-Implement filters for categories, prices, and ratings.
-Responsive Design
+#Add search functionality to find products quickly.
+#Implement filters for categories, prices, and ratings.
+#Responsive Design
 
-Use media queries in CSS to make the website mobile-friendly.
-Ensure the layout adjusts seamlessly across different screen sizes.
+#Use media queries in CSS to make the website mobile-friendly.
+#Ensure the layout adjusts seamlessly across different screen sizes.
 
-This project provides a foundation for building a fully functional e-commerce website. By expanding on this basic template, you can create a comprehensive and user-friendly online store.
+#This project provides a foundation for building a fully functional e-commerce website. By expanding on this basic template, you can create a comprehensive and user-friendly online store.
